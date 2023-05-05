@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41465" started-at="2023-05-05T09:28:20Z" finished-at="2023-05-05T09:29:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41465" started-at="2023-05-05T09:28:20Z" finished-at="2023-05-05T09:29:02Z">
+      <class name="testcases.HomePageTest">
+        <test-method status="PASS" signature="ReportSetup()[pri:0, instance:testcases.HomePageTest@43ee72e6]" name="ReportSetup" is-config="true" duration-ms="510" started-at="2023-05-05T09:28:20Z" finished-at="2023-05-05T09:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.HomePageTest@43ee72e6]" name="SetUp" is-config="true" duration-ms="3994" started-at="2023-05-05T09:28:21Z" finished-at="2023-05-05T09:28:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.HomePageTest.test3()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:testcases.HomePageTest@43ee72e6]" name="test3" duration-ms="2" started-at="2023-05-05T09:28:25Z" finished-at="2023-05-05T09:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.HomePageTest@43ee72e6]" name="TearDown" is-config="true" duration-ms="640" started-at="2023-05-05T09:28:25Z" finished-at="2023-05-05T09:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="ReportClean()[pri:0, instance:testcases.HomePageTest@43ee72e6]" name="ReportClean" is-config="true" duration-ms="236" started-at="2023-05-05T09:29:02Z" finished-at="2023-05-05T09:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportClean -->
+      </class> <!-- testcases.HomePageTest -->
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@23529fee]" name="SetUp" is-config="true" duration-ms="3528" started-at="2023-05-05T09:28:26Z" finished-at="2023-05-05T09:28:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.test1() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testcases.LoginTest@23529fee]" name="test1" duration-ms="12529" started-at="2023-05-05T09:28:29Z" finished-at="2023-05-05T09:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@23529fee]" name="TearDown" is-config="true" duration-ms="664" started-at="2023-05-05T09:28:42Z" finished-at="2023-05-05T09:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@23529fee]" name="SetUp" is-config="true" duration-ms="3366" started-at="2023-05-05T09:28:42Z" finished-at="2023-05-05T09:28:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.test2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testcases.LoginTest@23529fee]" name="test2" duration-ms="5289" started-at="2023-05-05T09:28:46Z" finished-at="2023-05-05T09:28:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@23529fee]" name="TearDown" is-config="true" duration-ms="624" started-at="2023-05-05T09:28:51Z" finished-at="2023-05-05T09:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@23529fee]" name="SetUp" is-config="true" duration-ms="3378" started-at="2023-05-05T09:28:52Z" finished-at="2023-05-05T09:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.test4() throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:testcases.LoginTest@23529fee]" name="test4" duration-ms="6021" started-at="2023-05-05T09:28:55Z" finished-at="2023-05-05T09:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@23529fee]" name="TearDown" is-config="true" duration-ms="631" started-at="2023-05-05T09:29:01Z" finished-at="2023-05-05T09:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
